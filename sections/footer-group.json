@@ -1,0 +1,139 @@
+{
+    "type": "footer",
+    "name": "Footer group",
+    "sections": {
+      "text-with-icons": {
+        "type": "text-with-icons",
+        "blocks": {
+          "free-shipping": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-box",
+              "mobile_icon_width": 24,
+              "icon_width": 24,
+              "icon_background_type": "none",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "Free shipping",
+              "content": "<p>Tell your customers about your shipping offer.<\/p>"
+            }
+          },
+          "customer-support": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-customer-support",
+              "mobile_icon_width": 24,
+              "icon_width": 24,
+              "icon_background_type": "none",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "Customer service",
+              "content": "<p>Tell your customers how they can reach you.<\/p>"
+            }
+          },
+          "discount": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-coupon",
+              "mobile_icon_width": 24,
+              "icon_width": 24,
+              "icon_background_type": "none",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "Refer a friend",
+              "content": "<p>Tell your customers about your promotional offers.<\/p>"
+            }
+          },
+          "payment": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-lock",
+              "mobile_icon_width": 24,
+              "icon_width": 24,
+              "icon_background_type": "none",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "Secure payment",
+              "content": "<p>Tel your customers about your payment methods.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "free-shipping",
+          "customer-support",
+          "discount",
+          "payment"
+        ],
+        "disabled": true,
+        "settings": {
+          "full_width": true,
+          "stack_on_mobile": false,
+          "title": "",
+          "heading_tag": "h6",
+          "text_alignment": "center",
+          "icon_spacing": "small",
+          "background": "",
+          "background_gradient": "",
+          "text_color": ""
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "newsletter_dhyjK6": {
+            "type": "newsletter",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ghmbm-removebg-preview.png",
+              "image_width": 180,
+              "heading_size": "h3",
+              "title": "Sign up for new stories and personal offers",
+              "content": ""
+            }
+          },
+          "text": {
+            "type": "text",
+            "settings": {
+              "title": "OUR STORY",
+              "content": "<p>Cypherspro mission is to provide best-in-class handheld gaming consoles and peripherals to players and open-source developers around the world. Since 2017, our company has built an excellent reputation with our global partners and customers. We are driven to innovate and move the gaming market forward by continuing to build high-quality products.<\/p>",
+              "enable_follow_on_shop": true
+            }
+          },
+          "links": {
+            "type": "links",
+            "settings": {
+              "menu": "footer",
+              "show_menu_title": true
+            }
+          },
+          "links_LqnU9C": {
+            "type": "links",
+            "settings": {
+              "menu": "customer-care",
+              "show_menu_title": true
+            }
+          }
+        },
+        "block_order": [
+          "newsletter_dhyjK6",
+          "text",
+          "links",
+          "links_LqnU9C"
+        ],
+        "custom_css": [
+          ".footer__copyright {text-decoration: uppercase;}"
+        ],
+        "settings": {
+          "show_social_media": true,
+          "show_payment_icons": true,
+          "show_country_selector": true,
+          "show_country_flag": true,
+          "show_country_name": true,
+          "show_locale_selector": true
+        }
+      }
+    },
+    "order": [
+      "text-with-icons",
+      "footer"
+    ]
+  }

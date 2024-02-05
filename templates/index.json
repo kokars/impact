@@ -1,0 +1,800 @@
+{
+    "sections": {
+      "slideshow_WDEtBh": {
+        "type": "slideshow",
+        "blocks": {
+          "image_xU6MPe": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/RG35XX_H_BANNER_1.webp",
+              "mobile_image": "shopify:\/\/shop_images\/RG35XX_H_BANNER_f6906aae-be8b-454a-aff5-07c9c2d4696b.jpg",
+              "content_max_width": 780,
+              "mobile_text_position": "place-self-start-center text-center",
+              "desktop_text_position": "sm:place-self-center-start sm:text-start",
+              "subheading": "NEW ARRIVAL",
+              "title": "RG35XX H",
+              "heading_tag": "h1",
+              "button_text": "Shop",
+              "button_link": "shopify:\/\/collections\/all",
+              "text_color": "#ffffff",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "overlay_color": "rgba(0,0,0,0)",
+              "overlay_opacity": 0,
+              "background": "",
+              "background_gradient": ""
+            }
+          },
+          "image_Cw9mBW": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/RG35XX_PLUS_aafee59d-fd74-4822-bd0a-0468f02aec5f_1.webp",
+              "mobile_image": "shopify:\/\/shop_images\/RG35XX_PLUS_6e19aa89-9b04-41a8-bb2c-e8f5f26a956f.jpg",
+              "content_max_width": 780,
+              "mobile_text_position": "place-self-start-center text-center",
+              "desktop_text_position": "sm:place-self-center-start sm:text-start",
+              "subheading": "",
+              "title": "RG35XX Plus",
+              "heading_tag": "h1",
+              "button_text": "Shop",
+              "button_link": "shopify:\/\/collections\/all",
+              "text_color": "#ffffff",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "overlay_color": "rgba(0,0,0,0)",
+              "overlay_opacity": 0,
+              "background": "#bbbbbf",
+              "background_gradient": ""
+            }
+          },
+          "image_rVPhK8": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/RGARC_BANNER2_1.webp",
+              "mobile_image": "shopify:\/\/shop_images\/RGARC_BANNER4.jpg",
+              "content_max_width": 780,
+              "mobile_text_position": "place-self-start-center text-center",
+              "desktop_text_position": "sm:place-self-center-start sm:text-start",
+              "subheading": "",
+              "title": "RG ARC-D\/RG ARC-S",
+              "heading_tag": "h1",
+              "button_text": "Shop",
+              "button_link": "shopify:\/\/collections\/all",
+              "text_color": "#ffffff",
+              "button_background": "#ffffff",
+              "button_text_color": "#080c32",
+              "overlay_color": "rgba(0,0,0,0)",
+              "overlay_opacity": 0,
+              "background": "#a1b7b8",
+              "background_gradient": ""
+            }
+          }
+        },
+        "block_order": [
+          "image_xU6MPe",
+          "image_Cw9mBW",
+          "image_rVPhK8"
+        ],
+        "settings": {
+          "full_width": false,
+          "allow_transparent_header": true,
+          "image_size": "auto",
+          "controls_type": "filled_arrows",
+          "transition_type": "fade_with_text",
+          "autoplay": false,
+          "cycle_speed": 6,
+          "background": "#080c32",
+          "background_gradient": ""
+        }
+      },
+      "57a3bfd1-94db-4d56-b065-427a3c95d8b8": {
+        "type": "rich-text",
+        "disabled": true,
+        "settings": {
+          "full_width": true,
+          "content_width": "small",
+          "text_position": "center",
+          "background": "",
+          "background_gradient": "",
+          "text_color": ""
+        }
+      },
+      "video_AY3tzM": {
+        "type": "video",
+        "blocks": {
+          "play_jNCmBV": {
+            "type": "play",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "play_jNCmBV"
+        ],
+        "settings": {
+          "full_width": false,
+          "allow_transparent_header": false,
+          "autoplay": false,
+          "video_size": "auto",
+          "external_video_url": "https:\/\/youtu.be\/TDWHQTOqLsU?list=TLGGBs8rfpq1-9MyNzAxMjAyNA",
+          "poster": "shopify:\/\/shop_images\/20240122-203415_1.webp",
+          "text_color": "#ffffff",
+          "overlay_color": "rgba(0,0,0,0)",
+          "overlay_opacity": 0
+        }
+      },
+      "image_link_blocks_fFKbcT": {
+        "type": "image-link-blocks",
+        "blocks": {
+          "item_cRTrBP": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/14_c2ec95e4-4aee-490b-b978-ea4c624ec0f9.png",
+              "stretch_image": true,
+              "link_text": "New Arrival",
+              "link_url": "shopify:\/\/collections\/new-arrival",
+              "background": "",
+              "text_color": "#000000",
+              "overlay_color": "#000000",
+              "overlay_opacity": 0
+            }
+          },
+          "item_XR9khJ": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/RGARC_42e01abd-8c97-4eba-afcd-0c5296ab855f.png",
+              "stretch_image": true,
+              "link_text": "Best Seller",
+              "link_url": "\/collections\/all?sort_by=best-selling",
+              "background": "",
+              "text_color": "#1a1a1a",
+              "overlay_color": "#000000",
+              "overlay_opacity": 0
+            }
+          },
+          "item_MiQA9C": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/win600_3820323a-bcab-49ce-b0a0-e4e7184fd931.png",
+              "stretch_image": true,
+              "link_text": "Windows Console",
+              "link_url": "shopify:\/\/products\/new-anbernic-win600",
+              "background": "",
+              "text_color": "#1a1a1a",
+              "overlay_color": "#000000",
+              "overlay_opacity": 0
+            }
+          },
+          "item_wVy9mi": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1_9e2ccfd7-da22-4cf5-91ca-ff4cfef9a3e7.png",
+              "stretch_image": true,
+              "link_text": "Accessories",
+              "link_url": "shopify:\/\/collections\/accessories",
+              "background": "",
+              "text_color": "#1a1a1a",
+              "overlay_color": "#000000",
+              "overlay_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "item_cRTrBP",
+          "item_XR9khJ",
+          "item_MiQA9C",
+          "item_wVy9mi"
+        ],
+        "settings": {
+          "full_width": true,
+          "block_size": "large",
+          "subheading": "",
+          "title": "",
+          "content": "",
+          "link_url": "",
+          "link_text": "",
+          "background": "",
+          "background_gradient": "",
+          "text_color": "",
+          "heading_color": "",
+          "heading_gradient": ""
+        }
+      },
+      "collection_list_GnkQLz": {
+        "type": "collection-list",
+        "blocks": {
+          "collection_ndrgCN": {
+            "type": "collection",
+            "settings": {
+              "collection": "metal-art",
+              "image": "shopify:\/\/shop_images\/6391ace427ade714b70fb966024ae804_45e42666-5f58-4f89-8bff-14825e441e2a_1.jpg",
+              "subheading": "",
+              "title": "",
+              "url": "",
+              "heading_tag": "h2",
+              "text_position": "place-self-end-center text-center",
+              "text_color": "#ffffff",
+              "overlay_color": "rgba(0,0,0,0)",
+              "overlay_opacity": 0
+            }
+          },
+          "collection_HUdXFG": {
+            "type": "collection",
+            "settings": {
+              "collection": "retro-pocket",
+              "image": "shopify:\/\/shop_images\/35xx1_1.jpg",
+              "subheading": "",
+              "title": "",
+              "url": "",
+              "heading_tag": "h2",
+              "text_position": "place-self-center text-center",
+              "text_color": "#ffffff",
+              "overlay_color": "rgba(0,0,0,0)",
+              "overlay_opacity": 0
+            }
+          },
+          "collection_nBPEJy": {
+            "type": "collection",
+            "settings": {
+              "collection": "4-3-ratio",
+              "image": "shopify:\/\/shop_images\/800_1.jpg",
+              "subheading": "",
+              "title": "",
+              "url": "",
+              "heading_tag": "h2",
+              "text_position": "place-self-start-center text-center",
+              "text_color": "#ffffff",
+              "overlay_color": "#1a1a1a",
+              "overlay_opacity": 25
+            }
+          },
+          "collection_qR4CKW": {
+            "type": "collection",
+            "settings": {
+              "collection": "vertical-handheld",
+              "image": "shopify:\/\/shop_images\/5_962fba8d-25d8-49ba-bfac-8974fe07daa5_1.jpg",
+              "subheading": "",
+              "title": "",
+              "url": "",
+              "heading_tag": "h2",
+              "text_position": "place-self-center text-center",
+              "text_color": "#ffffff",
+              "overlay_color": "#000000",
+              "overlay_opacity": 30
+            }
+          }
+        },
+        "block_order": [
+          "collection_ndrgCN",
+          "collection_HUdXFG",
+          "collection_nBPEJy",
+          "collection_qR4CKW"
+        ],
+        "settings": {
+          "full_width": true,
+          "stack_collections": false,
+          "collections_per_row": 3,
+          "show_progress_bar": false,
+          "subheading": "",
+          "title": "",
+          "content": "",
+          "link_url": "",
+          "link_text": "",
+          "background": "",
+          "background_gradient": "",
+          "text_color": "",
+          "heading_color": "",
+          "heading_gradient": ""
+        }
+      },
+      "collection_list_NLNKmh": {
+        "type": "collection-list",
+        "blocks": {
+          "collection_JmAK4x": {
+            "type": "collection",
+            "settings": {
+              "collection": "4-3-ratio",
+              "image": "shopify:\/\/shop_images\/Untitled-1_8105d5e6-a29a-470d-bd9d-5ef4e2bf85ea.jpg",
+              "subheading": "",
+              "title": "",
+              "url": "",
+              "heading_tag": "h2",
+              "text_position": "place-self-center text-center",
+              "text_color": "#ffffff",
+              "overlay_color": "rgba(0,0,0,0)",
+              "overlay_opacity": 0
+            }
+          },
+          "collection_3f7ULX": {
+            "type": "collection",
+            "settings": {
+              "collection": "accessories",
+              "image": "shopify:\/\/shop_images\/Untitled-1.jpg",
+              "subheading": "",
+              "title": "",
+              "url": "",
+              "heading_tag": "h2",
+              "text_position": "place-self-center text-center",
+              "text_color": "#ffffff",
+              "overlay_color": "rgba(0,0,0,0)",
+              "overlay_opacity": 0
+            }
+          },
+          "collection_JUgH68": {
+            "type": "collection",
+            "settings": {
+              "collection": "metal-art",
+              "image": "shopify:\/\/shop_images\/new_store.jpg",
+              "subheading": "",
+              "title": "",
+              "url": "",
+              "heading_tag": "h2",
+              "text_position": "place-self-center text-center",
+              "text_color": "#ffffff",
+              "overlay_color": "rgba(0,0,0,0)",
+              "overlay_opacity": 0
+            }
+          }
+        },
+        "block_order": [
+          "collection_JmAK4x",
+          "collection_3f7ULX",
+          "collection_JUgH68"
+        ],
+        "disabled": true,
+        "settings": {
+          "full_width": true,
+          "stack_collections": true,
+          "collections_per_row": 3,
+          "show_progress_bar": false,
+          "subheading": "",
+          "title": "",
+          "content": "",
+          "link_url": "",
+          "link_text": "View all",
+          "background": "",
+          "background_gradient": "",
+          "text_color": "",
+          "heading_color": "",
+          "heading_gradient": ""
+        }
+      },
+      "media_grid_p8WKUB": {
+        "type": "media-grid",
+        "blocks": {
+          "image_cnrXnb": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/a_l.png",
+              "title": "Dual System",
+              "heading_tag": "h4",
+              "link_url": "shopify:\/\/collections\/dual-system",
+              "link_text": "",
+              "mobile_text_position": "place-self-center text-center",
+              "desktop_column_span": 2,
+              "desktop_row_span": 1,
+              "desktop_text_position": "sm:place-self-center sm:text-center",
+              "background": "#000000",
+              "background_gradient": "",
+              "text_color": "#ffffff",
+              "text_gradient": "",
+              "button_background": "#000000",
+              "button_text_color": "#ffffff",
+              "overlay_color": "#000000",
+              "overlay_opacity": 30
+            }
+          },
+          "image_xJrNaF": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Android_symbol_green_2.2e16d0ba.fill-1440x810_fbdf74ba-7019-4461-b672-e2a72eef0594.png",
+              "title": "Android",
+              "heading_tag": "h4",
+              "link_url": "shopify:\/\/collections\/android",
+              "link_text": "",
+              "mobile_text_position": "place-self-center text-center",
+              "desktop_column_span": 1,
+              "desktop_row_span": 1,
+              "desktop_text_position": "sm:place-self-center sm:text-center",
+              "background": "#000000",
+              "background_gradient": "",
+              "text_color": "#ffffff",
+              "text_gradient": "",
+              "button_background": "#000000",
+              "button_text_color": "#ffffff",
+              "overlay_color": "#000000",
+              "overlay_opacity": 30
+            }
+          },
+          "image_QB7KDz": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1200px-Icons8_flat_linux_svg_586e18c2-3e1f-4e97-abb0-6f991365184e.png",
+              "title": "Linux",
+              "heading_tag": "h4",
+              "link_url": "shopify:\/\/collections\/linux",
+              "link_text": "",
+              "mobile_text_position": "place-self-center text-center",
+              "desktop_column_span": 1,
+              "desktop_row_span": 1,
+              "desktop_text_position": "sm:place-self-center sm:text-center",
+              "background": "#000000",
+              "background_gradient": "",
+              "text_color": "#ffffff",
+              "text_gradient": "",
+              "button_background": "#000000",
+              "button_text_color": "#ffffff",
+              "overlay_color": "#000000",
+              "overlay_opacity": 30
+            }
+          }
+        },
+        "block_order": [
+          "image_cnrXnb",
+          "image_xJrNaF",
+          "image_QB7KDz"
+        ],
+        "settings": {
+          "full_width": true,
+          "reduce_width": false,
+          "desktop_row_height": 290,
+          "mobile_row_height": 150,
+          "background": "",
+          "background_gradient": ""
+        }
+      },
+      "rich_text_YmiXxN": {
+        "type": "rich-text",
+        "blocks": {
+          "heading_HcBdN8": {
+            "type": "heading",
+            "settings": {
+              "text": "NEW RG35XX H",
+              "heading_tag": "h0",
+              "text_color": "",
+              "gradient": ""
+            }
+          },
+          "richtext_GDLgiA": {
+            "type": "richtext",
+            "settings": {
+              "content": "<h1>Anbernic | New arrival | Linux system<\/h1>"
+            }
+          },
+          "button_7c3bT4": {
+            "type": "button",
+            "settings": {
+              "style": "fill",
+              "size": "xl",
+              "text": "Shop Now",
+              "url": "shopify:\/\/products\/anbernic-rg280v",
+              "background": "",
+              "text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "heading_HcBdN8",
+          "richtext_GDLgiA",
+          "button_7c3bT4"
+        ],
+        "disabled": true,
+        "settings": {
+          "full_width": true,
+          "content_width": "medium",
+          "text_position": "center",
+          "background": "",
+          "background_gradient": "",
+          "text_color": ""
+        }
+      },
+      "impact_text_mPMC8Q": {
+        "type": "impact-text",
+        "blocks": {
+          "item_3QmjDc": {
+            "type": "item",
+            "settings": {
+              "title": "NEW RG35XX H",
+              "subheading": "Anbernic | New arrival | Linux system",
+              "content": "",
+              "button_text": "Shop Now",
+              "button_url": "",
+              "animate_impact_text": false,
+              "animate_impact_text_duration": 2
+            }
+          }
+        },
+        "block_order": [
+          "item_3QmjDc"
+        ],
+        "settings": {
+          "full_width": false,
+          "stack_mobile": false,
+          "text_alignment": "center",
+          "impact_text_style": "fill",
+          "text_divider": "none",
+          "impact_text_size_ratio": 0.7,
+          "background": "",
+          "background_gradient": "",
+          "heading_text_color": "",
+          "heading_gradient": "linear-gradient(0deg, rgba(252, 252, 252, 1), rgba(193, 193, 193, 1) 94%)",
+          "text_color": "",
+          "button_background": "",
+          "button_text_color": ""
+        }
+      },
+      "press_A6CBVT": {
+        "type": "press",
+        "blocks": {
+          "quote_9yhBmM": {
+            "type": "quote",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/retro_dodo.jpg",
+              "logo_width": 100,
+              "author": "Retro Dodo",
+              "content": "It is now probably my favorite retro handheld of 2023 so far！",
+              "show_rating": false,
+              "rating": 4
+            }
+          },
+          "quote_DQHqfF": {
+            "type": "quote",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/retro_game_corps.jpg",
+              "logo_width": 100,
+              "author": "Retro Game Corps",
+              "content": "I think the quality of the rg353ps is unmatched in this price point！",
+              "show_rating": false,
+              "rating": 4
+            }
+          },
+          "quote_3EmWR8": {
+            "type": "quote",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/ETA_PRIME.jpg",
+              "logo_width": 100,
+              "author": "ETA PRIME",
+              "content": "A New Low Cost Budget Retro EMU Hand Held From ANBERNIC—RG353PS",
+              "show_rating": false,
+              "rating": 4
+            }
+          },
+          "quote_8QhCQA": {
+            "type": "quote",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/retro_dodo.jpg",
+              "logo_width": 100,
+              "author": "Retro Dodo",
+              "content": "It is now probably my favorite retro handheld of 2023 so far！",
+              "show_rating": false,
+              "rating": 4
+            }
+          },
+          "quote_mn6AgU": {
+            "type": "quote",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/retro_game_corps.jpg",
+              "logo_width": 100,
+              "author": "Retro Game Corps",
+              "content": "I think the quality of the rg353ps is unmatched in this price point！",
+              "show_rating": false,
+              "rating": 4
+            }
+          },
+          "quote_xpWXHj": {
+            "type": "quote",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/ETA_PRIME.jpg",
+              "logo_width": 100,
+              "author": "ETA PRIME",
+              "content": "A New Low Cost Budget Retro EMU Hand Held From ANBERNIC—RG353PS",
+              "show_rating": false,
+              "rating": 4
+            }
+          }
+        },
+        "block_order": [
+          "quote_9yhBmM",
+          "quote_DQHqfF",
+          "quote_3EmWR8",
+          "quote_8QhCQA",
+          "quote_mn6AgU",
+          "quote_xpWXHj"
+        ],
+        "settings": {
+          "full_width": true,
+          "content_size": "medium",
+          "background": "",
+          "background_gradient": "",
+          "text_color": "",
+          "heading_color": "",
+          "heading_gradient": "",
+          "logo_item_background": "",
+          "logo_item_border": ""
+        }
+      },
+      "blog_posts_xVRye3": {
+        "type": "blog-posts",
+        "blocks": {
+          "blog_KB8BRB": {
+            "type": "blog",
+            "settings": {
+              "blog": "news",
+              "posts_count": 3,
+              "stack_items": false
+            }
+          }
+        },
+        "block_order": [
+          "blog_KB8BRB"
+        ],
+        "settings": {
+          "full_width": true,
+          "show_excerpt": true,
+          "show_date": true,
+          "show_author": false,
+          "show_comments_count": false,
+          "show_category": true,
+          "subheading": "",
+          "title": "Blog posts",
+          "content": "",
+          "link_url": "shopify:\/\/blogs\/news",
+          "link_text": "View all",
+          "background": "",
+          "background_gradient": "",
+          "text_color": "",
+          "heading_color": "",
+          "heading_gradient": ""
+        }
+      },
+      "faq_3UwdwR": {
+        "type": "faq",
+        "blocks": {
+          "item_AmkWgf": {
+            "type": "item",
+            "settings": {
+              "title": "Do you ship overseas?",
+              "content": "<p>Yes, we ship all over the world. Shipping costs will apply,<br\/>and will be added at checkout. More detail please visit our<br\/>shipping policy page.<\/p>"
+            }
+          },
+          "item_7GLdTC": {
+            "type": "item",
+            "settings": {
+              "title": "How long will it take to get my orders?",
+              "content": "<p>It depends on where you are. Orders here will take 2-4<br\/>business days to processe before shipping. More detail<br\/>please visit our shipping policy page.<\/p>"
+            }
+          },
+          "item_hFtcDY": {
+            "type": "item",
+            "settings": {
+              "title": "Track my order",
+              "content": "<p>Please visit our tracking page and input your tracking<br\/>number(NOT order number).<\/p>"
+            }
+          },
+          "item_qVqfNK": {
+            "type": "item",
+            "settings": {
+              "title": "Any question?",
+              "content": "<p>You may find some solution on our <a href=\"#\" target=\"_blank\" title=\"#\">support page<\/a> or you can contact us through our <a href=\"#\" title=\"#\">contact page<\/a>! We will be happy to assist you.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "item_AmkWgf",
+          "item_7GLdTC",
+          "item_hFtcDY",
+          "item_qVqfNK"
+        ],
+        "settings": {
+          "full_width": false,
+          "subheading": "",
+          "title": "FAQ",
+          "content": "<p>Our customer support is available Monday to Friday. Average answer time: 24h-48h<\/p>",
+          "team_avatar_width": 160,
+          "support_hours": "Our customer support is available Monday to Friday.",
+          "answer_time": "",
+          "button_text": "",
+          "button_url": "",
+          "text_position": "center",
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text_color": "",
+          "heading_color": "",
+          "heading_gradient": "",
+          "button_background": "",
+          "button_text_color": "",
+          "accordion_background": "",
+          "accordion_text_color": ""
+        }
+      },
+      "text_with_icons_zKfMRV": {
+        "type": "text-with-icons",
+        "blocks": {
+          "item_XH8MBQ": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-love",
+              "mobile_icon_width": 24,
+              "icon_width": 32,
+              "icon_background_type": "circle",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "One year warranty",
+              "content": "<p>Within the 12-month warranty period,we support to privide replacement repair parts for free. <\/p>"
+            }
+          },
+          "item_CdjYmi": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-customer-support",
+              "mobile_icon_width": 24,
+              "icon_width": 32,
+              "icon_background_type": "circle",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "Customer service",
+              "content": "<p>Please contact us by email or <a href=\"https:\/\/support.anbernic.com\/support\/tickets\/new\" target=\"_blank\" title=\"https:\/\/support.anbernic.com\/support\/tickets\/new\">submit a ticket<\/a> on support page.<\/p>"
+            }
+          },
+          "item_Lh4GGG": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-gift",
+              "mobile_icon_width": 24,
+              "icon_width": 32,
+              "icon_background_type": "circle",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "Refer a friend",
+              "content": "<p>Send your friends a 2% discount off their purchase. Once they make a purchase, you'll earn 3% for each order as well!<\/p>"
+            }
+          },
+          "item_NrGbyr": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-lock",
+              "mobile_icon_width": 24,
+              "icon_width": 32,
+              "icon_background_type": "circle",
+              "icon_background": "",
+              "icon_color": "",
+              "title": "Secure payment",
+              "content": "<p>Pay With Credit\/Debit Card and Paypal.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "item_XH8MBQ",
+          "item_CdjYmi",
+          "item_Lh4GGG",
+          "item_NrGbyr"
+        ],
+        "settings": {
+          "full_width": true,
+          "stack_on_mobile": false,
+          "title": "",
+          "heading_tag": "h5",
+          "text_alignment": "center",
+          "icon_spacing": "medium",
+          "background": "",
+          "background_gradient": "",
+          "text_color": ""
+        }
+      }
+    },
+    "order": [
+      "slideshow_WDEtBh",
+      "57a3bfd1-94db-4d56-b065-427a3c95d8b8",
+      "video_AY3tzM",
+      "image_link_blocks_fFKbcT",
+      "collection_list_GnkQLz",
+      "collection_list_NLNKmh",
+      "media_grid_p8WKUB",
+      "rich_text_YmiXxN",
+      "impact_text_mPMC8Q",
+      "press_A6CBVT",
+      "blog_posts_xVRye3",
+      "faq_3UwdwR",
+      "text_with_icons_zKfMRV"
+    ]
+  }

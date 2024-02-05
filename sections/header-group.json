@@ -1,0 +1,63 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message_3JUMGP": {
+          "type": "message",
+          "settings": {
+            "text": "Shipping Notice: Orders from China warehouse during February 1st to February 17th will be shipped after February 17th since we will be in Spring Festival Holiday in this peroid. Orders from overseas warehouse will ship as normal.",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message_3JUMGP"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "text_size": "text-xs",
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 15,
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        ".header__menu-item {font-size: 25px; font-weight: bold;}"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "logo": "shopify:\/\/shop_images\/ghmbm-removebg-preview.png",
+        "logo_max_width": 140,
+        "logo_mobile_max_width": 100,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "click",
+        "opening_from": "bottom",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": false,
+        "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify:\/\/shop_images\/DP-removebg-preview_fe397ff0-2d3d-4e12-abc6-fb11c8a3aafa.png",
+        "reduce_padding": false,
+        "background_opacity": 100,
+        "background_blur_radius": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
